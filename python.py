@@ -1,3 +1,3 @@
-name = " gabriel parra  el original"
+name = " soy gabriel parra  el original"
 
 
