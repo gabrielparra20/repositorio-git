@@ -1,3 +1,5 @@
-name = " soy gabriel parra  el original"
+name = " soy gabriel  eduardo"
+apellido = "parra gonzalez"
+print(f"hola {name} {apellido}")
 
 
