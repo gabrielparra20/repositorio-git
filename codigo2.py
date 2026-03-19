@@ -1,3 +1,3 @@
-nombre = "dalto"
+nombre = "pepito"
 
 print(f"hola {nombre}")
